@@ -1,6 +1,9 @@
 print('Hello World')
 print('Hello India')
+<<<<<<< HEAD
+name = 'Sameer S Acholkar'
+=======
 name = 'Sameer Acholkar'
-name = 'Charles Hendreson'
+>>>>>>> feature
 
 
