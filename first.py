@@ -1,4 +1,4 @@
-print('Hello World')
+print('Hello Earth')
 print('Hello India')
 name = 'Sameer Acholkar'
 
